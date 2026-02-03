@@ -1,14 +1,21 @@
-# Estudos de Python - Mundo 1 (Guanabara)
+# Estudos de Git / Github (Curso em video)
 
-Este repositório contém todos os exercícios e desafios que estou desenvolvendo enquanto acompanho o curso de Python 3 do canal Curso em Vídeo.
+Este repositório contém todos os exercícios e desafios que estou desenvolvendo enquanto acompanho o curso de Git e Github do canal Curso em Vídeo.
 
-## 🚀 Objetivo
-Dominar a sintaxe da linguagem, tipos de dados e estruturas de controle para aplicar em projetos de **Geotecnologia**.
+## 🎯 Objetivos do Aprendizado
+- Entender o fluxo de trabalho do Git (**Working Directory, Staging Area, Repository**).
+- Aprender os comandos fundamentais: `add`, `commit`, `push`, `pull` e `fetch`.
+- Dominar o uso de **Branches** (ramos) para trabalhar em diferentes funcionalidades.
+- Resolver conflitos de versão e entender o uso de **Merge**.
+- Utilizar o GitHub como portfólio e plataforma de colaboração.
 
-## 🛠 Tecnologias
-- Python 3
-- VS Code
-- Git & GitHub
+## 🛠 Comandos que já estou praticando
+- `git init`: Inicializa o repositório.
+- `git status`: Verifica o estado dos arquivos.
+- `git log`: Visualiza o histórico de alterações.
+- `git remote add origin`: Conecta minha pasta local ao GitHub.
+
+*Este é um repositório de suporte para todos os meus futuros projetos
 
 ## 📂 Organização
 - `/exercicios`: Desafios propostos em aula.
