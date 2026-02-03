@@ -2,6 +2,9 @@
 
 Este repositório contém todos os exercícios e desafios que estou desenvolvendo enquanto acompanho o curso de Git e Github do canal Curso em Vídeo.
 
+# Repositório do Guanabara no GiHub
+https://github.com/gustavoguanabara/git-github/tree/master
+
 ## 🎯 Objetivos do Aprendizado
 - Entender o fluxo de trabalho do Git (**Working Directory, Staging Area, Repository**).
 - Aprender os comandos fundamentais: `add`, `commit`, `push`, `pull` e `fetch`.
