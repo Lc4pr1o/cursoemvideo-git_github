@@ -7,7 +7,7 @@ file:///C:/Users/lmalerbo/Documents/GitHub/cursoemvideo-git_github/index.html
 
 ## 🎯 Objetivos do Aprendizado
 - Entender o fluxo de trabalho do Git (**Working Directory, Staging Area, Repository**).
-- Aprender os comandos fundamentais: `add`, `commit`, `push`, `pull` e `fetch`.
+- Aprender os comandos fundamentais: `add`, `commit`, `push`, `pull`,`merge` e `fork`.
 - Dominar o uso de **Branches** (ramos) para trabalhar em diferentes funcionalidades.
 - Resolver conflitos de versão e entender o uso de **Merge**.
 - Utilizar o GitHub como portfólio e plataforma de colaboração.
