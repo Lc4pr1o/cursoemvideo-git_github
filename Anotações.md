@@ -1,7 +1,7 @@
 ### Git Branches - Termos ###
 
-- main / master: É a Ramo principal do projeto.
-- **branch:**´** É propriamente dito uma ramificação do master. 
+- **main / master:** É a Ramo principal do projeto.
+- **branch:** É propriamente dito uma ramificação do master. 
 - **commit:** É o ato de salvar um "print" do seu código naquele momento. #É como um checkpoint em um jogo.
 - **push:** Enviar suas alterações locais para o servidor remoto.
 - **pull:** Trazer as alterações do servidor para a sua máquina.
