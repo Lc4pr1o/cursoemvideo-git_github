@@ -31,7 +31,7 @@ https://lc4pr1o.github.io/cursoemvideo-git_github/index.html
 - `/anotacoes`: Meus resumos sobre conceitos teóricos.
 
 ---
-*Status: Em progresso... ⏳*
+*Status: concluído*
 
 # Repositório do Guanabara no GitHub
 https://github.com/gustavoguanabara/git-github/tree/master
