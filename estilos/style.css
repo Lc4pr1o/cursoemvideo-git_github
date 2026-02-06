@@ -1,21 +1,24 @@
 * {
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 19px;
 }
 
 body {
-    background-color: rgb(252, 222, 179);
+    background-color: rgb(128, 212, 238);
 }
 
 main {
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.356)
+    padding: 20px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.356);
+    text-align: center;
 }
 
 .foto-perfil {
     width: 200px; /*largura fixa */
     border-radius: 10px; /* Borda arredondadas*/
+    display: block;   /* Faz a imagem ocupar a linha toda como um bloco */
+    margin: auto;    /* Distribui o espaço sobrando igualmente nos dois lados */
 }
