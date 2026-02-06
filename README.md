@@ -3,7 +3,7 @@
 Este repositório contém todos os exercícios e desafios que estou desenvolvendo enquanto acompanho o curso de Git e Github do canal Curso em Vídeo.
 
 # Meu primeiro site em HTML
-file:///C:/Users/lmalerbo/Documents/GitHub/cursoemvideo-git_github/index.html
+https://lc4pr1o.github.io/cursoemvideo-git_github/index.html
 
 ## 🎯 Objetivos do Aprendizado
 - Entender o fluxo de trabalho do Git (**Working Directory, Staging Area, Repository**).
