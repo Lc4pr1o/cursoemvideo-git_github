@@ -13,7 +13,8 @@ main {
     margin: auto;
     padding: 20px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.356);
-    text-align: center;
+    border-radius: 30px;
+
 }
 
 .foto-perfil {
@@ -21,4 +22,8 @@ main {
     border-radius: 10px; /* Borda arredondadas*/
     display: block;   /* Faz a imagem ocupar a linha toda como um bloco */
     margin: auto;    /* Distribui o espaço sobrando igualmente nos dois lados */
+}
+
+.texto-central {
+    text-align: center;
 }
